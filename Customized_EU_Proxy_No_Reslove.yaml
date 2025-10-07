@@ -16,9 +16,6 @@ payload:
   - IP-CIDR,80.239.145.96/32
   - IP-CIDR,80.239.145.97/32
   - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN,cdn.usefathom.com
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com
