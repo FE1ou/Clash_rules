@@ -15,17 +15,5 @@ payload:
   - IP-CIDR,80.239.145.95/32
   - IP-CIDR,80.239.145.96/32
   - IP-CIDR,80.239.145.97/32
+  
   - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN,ai.google.dev
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN-KEYWORD,generativelanguage
