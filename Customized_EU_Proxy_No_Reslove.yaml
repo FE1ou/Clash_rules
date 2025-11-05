@@ -17,10 +17,3 @@ payload:
   - IP-CIDR,80.239.145.97/32
   
   - DOMAIN-SUFFIX,exhentai.org
-
-  - DOMAIN-SUFFIX,guzzoni.apple.com
-  - DOMAIN-SUFFIX,smoot.apple.com
-  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
-  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-  - DOMAIN-SUFFIX,cp4.cloudflare.com
-  - DOMAIN-SUFFIX,apple-relay.apple.com
